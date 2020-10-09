@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+lectures/
+*sandbox*
+.git/
+*.swp
